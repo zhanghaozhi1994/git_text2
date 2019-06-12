@@ -11,5 +11,6 @@ public class DemoGit {
     public void text(){
         int i = 0;
         i+=10;
+        System.out.println(i);
     }
 }
